@@ -1,0 +1,36 @@
+EVA – Embodied Virtual Assistant
+
+AI-Powered Humanoid Robotics Project
+
+EVA is an independent robotics project focused on connecting artificial intelligence with the physical world. The goal is to build an intelligent robot that can understand commands, make decisions, execute code, and control physical hardware.
+
+Key Capabilities
+
+* Natural language understanding
+* Voice-based interaction
+* AI-powered decision-making
+* Code generation and execution
+* Automatic motor and servo control
+* Sensor integration and data processing
+* Real-time hardware interaction
+* Autonomous task execution
+
+Hardware & Technologies
+
+* Microcontrollers and development boards
+* Motors and servo motors
+* Sensors and electronic components
+* Python and embedded programming
+* AI models and APIs
+
+Project Vision
+
+My vision is to develop a robot that can think, understand, interact, and perform real-world tasks using artificial intelligence and robotics.
+
+Development Status
+
+Currently under development. Hardware integration, software development, and testing are ongoing.
+
+Author
+
+Abhinav
